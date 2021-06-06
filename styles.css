@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Times New Roman", sans-serif;
 }
 body {
   background:white;
@@ -20,7 +20,7 @@ Header {
 
 Header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
+  font-family: "TreeMono", monospace;
   font-weight: 200;
 }
 
@@ -33,10 +33,10 @@ Footer {
 }
 
 Footer p {
-  color: #ccc;
+  color:black;
 }
 .note {
-  background: blueviolet;
+  background: palevioletred;
   border-radius: 7px;
   box-shadow: 0 2px 5px black;
   padding: 10px;
