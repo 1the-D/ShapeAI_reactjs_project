@@ -9,6 +9,7 @@ function Footer()
       <p>Complete the project
         from Latika Gupta
       </p>
+      <p> Thankyou Shaurya </p>
       <p>Copyright @ {currYear}</p>
     </footer>
   );
